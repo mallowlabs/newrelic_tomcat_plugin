@@ -1,0 +1,12 @@
+[
+	{
+		"name" : "Default",
+		"host" : "127.0.0.1",
+		"port" : 8080,
+		"request" : "/manager/status?XML=true",
+		"user" : "newrelic",
+		"password" : "newrelic",
+		"timeout" : 30,
+		"connector" : "\"http-bio-8080\""
+ 	}
+]
